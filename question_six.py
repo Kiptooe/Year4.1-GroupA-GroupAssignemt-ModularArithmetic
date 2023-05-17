@@ -38,3 +38,5 @@ residue, sqrt = find_quadratic_residue_and_its_sqrt(p, ints)
 
 # Print the quadratic residue and its square root
 print(f"The quadratic residue is {residue} and its square root is {sqrt}.")
+
+#6
